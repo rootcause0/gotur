@@ -1,6 +1,6 @@
 # gotur
 
-Gotur is a clone of 'Super Delivery' service Getir
+Gotur is a clone of 'Super Delivery' service Getir <br>
 Feel free to contribute,there is no Code of Conduct for now.
 
 ## Project setup
