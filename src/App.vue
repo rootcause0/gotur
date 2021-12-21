@@ -1,8 +1,8 @@
 <template>
-<div class="min-h-screen w-full bg-gray-50 text-gray-800">
-  <Navbar/>
-  <hero-slider/>
-</div>
+  <main class="min-h-screen w-full bg-gray-50 text-gray-800">
+    <Navbar/>
+    <hero-slider/>
+  </main>
 </template>
 
 <script>
