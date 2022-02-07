@@ -3,7 +3,19 @@
 @tailwind components;
 @tailwind utilities;
 
+@import '~@fontsource/open-sans';
 
-.inactive-logo {
-    filter:brightness(5%) invert(90%) sepia(72%) saturate(3333%) hue-rotate(180deg) contrast(102%)
+
+
+body {
+    font-family: "Open Sans";
+  }
+
+  .inactive-logo {
+      filter:brightness(5%) invert(90%) sepia(72%) saturate(3333%) hue-rotate(180deg) contrast(102%)
+  }
+
+.vueperslide__content-wrapper {
+background: linear-gradient( 90deg,#5d3ebc 0%,rgba(89,1,184,0) 100% );
 }
+
